@@ -23,11 +23,9 @@ LOGO=ubuntu-logo
 Crear dos namespaces (hostA y hostB) conectados mediante un par veth y verificar conectividad IPv4.
 
 ## 3. Topología 
-  ## 3. Topología
-
 Se construyó una red virtual aislada con dos namespaces:
 
-```text
+``
         Linux (WSL2)
            │
     ┌──────┴──────┐
